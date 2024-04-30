@@ -25,9 +25,10 @@ Bu, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir meyve yakalam
 - **Sesler**: Arka plan müziği ve ses efektlerini içeren klasör.
 
 ## Önizleme
--Oyun anından görüntüler:
-![on0](https://github.com/UMMUGULSUNDEMIRCI/myhtmljsgame1/assets/132378363/272f4fbc-c13f-4414-aa5c-a479393c923e)
+-**Oyun bitiş anından görüntü:**
 ![on1](https://github.com/UMMUGULSUNDEMIRCI/myhtmljsgame1/assets/132378363/faeca262-59aa-43c5-8616-d4def756a26f)
+-**Oyun başlangıç anından görüntü:**
+![on0](https://github.com/UMMUGULSUNDEMIRCI/myhtmljsgame1/assets/132378363/d26da222-2399-41c8-9dcf-fe9c96d3d0a5)
 
 -Oyun oynama esnasında çekilen videonun youtube adresi.
 -**Youtube Videosu Linki**:https://youtu.be/0Nfz7-kjtEY?si=E57KVTy_SJFOF2QI
