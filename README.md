@@ -1,8 +1,6 @@
 # myhtmljsgame1
-Vanilla JavaScript &amp; HTML5 game
-Tabii, işte HTML oyununuz için bir Türkçe README dosyası:
+Vanilla JavaScript &  HTML5 game
 
----
 
 # Meyve Ezme Oyunu
 
